@@ -20,9 +20,10 @@
     "/test/"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.1.0",
     "iron-ajax": "PolymerElements/iron-ajax#~1.0.5",
-    "iron-image": "PolymerElements/iron-image#~1.0.2"
+    "iron-image": "PolymerElements/iron-image#~1.0.2",
+    "ix-apod-data": "michelschep/ix-apod-data",
+    "polymer": "Polymer/polymer#^1.1.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
